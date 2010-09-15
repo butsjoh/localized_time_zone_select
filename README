@@ -1,0 +1,18 @@
+localized_time_zone_select
+==========================
+
+View helper for displaying select list with time zones.
+Uses the Rails internationalization framework (I18n) for translating the time zones.
+
+Installation
+=================
+
+To install the plugin, change into an existing Rails application and run
+
+  Rails 2:
+
+  script/plugin install git://github.com/butsjoh/localized_time_zone_select.git
+
+  Rails 3:
+
+  rails plugin install git://github.com/butsjoh/localized_time_zone_select.git

@@ -1,0 +1,2 @@
+[15 September 2010]
+* Moved tasks to lib folder to avoid rails 3 deprication warnings
